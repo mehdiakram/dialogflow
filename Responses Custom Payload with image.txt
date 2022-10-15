@@ -1,0 +1,17 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "info",
+        "title": "Royal Technologies",
+        "subtitle": "Your trusted ID partner",
+        "image": {
+          "src": {
+            "rawUrl": "https://example.com/images/logo.png"
+          }
+        },
+        "actionLink": "https://www.royaltechbd.com"
+      }
+    ]
+  ]
+}
