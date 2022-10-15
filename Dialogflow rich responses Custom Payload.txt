@@ -1,0 +1,12 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "info",
+        "title": "Royal Technologies",
+        "subtitle": "www.royaltechbd.com",
+        "actionLink": "https://www.royaltechbd.com"
+      }
+    ]
+  ]
+}
